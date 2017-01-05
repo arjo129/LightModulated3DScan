@@ -20,3 +20,7 @@ HEADERS  += mainwindow.h \
     captureimage.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES += \
+    readme.md \
+    LICENSE.txt
